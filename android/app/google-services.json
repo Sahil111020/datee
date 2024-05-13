@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "697277567251",
+    "project_id": "datee-oy5hai",
+    "storage_bucket": "datee-oy5hai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697277567251:android:f2a74030d7771e635c4ae6",
+        "android_client_info": {
+          "package_name": "com.mycompany.datee"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmvUTpmRD48iz_iw4K2M5X1Fd1IvZuJfU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
